@@ -14,5 +14,5 @@ void Problem001()
 		}
 	}
 
-	std::cout << "The answer to problem 002 is: " << answer << std::endl;
+	std::cout << "The answer to problem 001 is: " << answer << std::endl;
 }

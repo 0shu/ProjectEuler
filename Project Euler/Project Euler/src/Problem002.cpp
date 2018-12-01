@@ -17,5 +17,5 @@ void Problem002()
 		k = i + j; //By putting this at the end of the loop we can use it in the while and save 1 extra calculation each loop
 		//std::cout << k << " is the number k\n"; DEBUG LINE
 	}
-	std::cout << "The answer to problem 001 is: " << answer << std::endl;
+	std::cout << "The answer to problem 002 is: " << answer << std::endl;
 }
