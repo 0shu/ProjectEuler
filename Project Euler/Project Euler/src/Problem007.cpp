@@ -20,7 +20,7 @@ void Problem007()
 				primes.push_back(answer);
 				//std::cout << answer << "\t is the " << primes.size() << " prime! \n";
 			}
-			if ((answer % primes[i]) == 0)
+			if (answer % primes[i] == 0)
 			{
 				break;
 			}

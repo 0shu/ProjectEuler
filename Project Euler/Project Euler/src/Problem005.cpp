@@ -1,4 +1,4 @@
-//The function for problem 001 "Smallest Multiple"
+//The function for problem 005 "Smallest Multiple"
 //Goal: Find the smallest number that is evenly divisible by 1-20
 #include "main.h"
 

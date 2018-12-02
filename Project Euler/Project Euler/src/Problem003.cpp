@@ -9,7 +9,7 @@ void Problem003()
 
 	while (answer < goal) //If answer is less than goal then there is still a factor to be removed
 	{
-		if (!(goal % answer)) //if it divides into it
+		if (goal % answer == 0) //if it divides into it
 		{
 			goal /= answer;   //The factor's partner becomes the new goal
 			//std::cout << "\nRefactoring goal to be:" << goal; DEBUG STATEMENT

@@ -11,7 +11,7 @@ void Problem002()
 
 	while (k < 4000000) //The number 4000000 we cant exceed
 	{
-		if (!(k % 2)) answer += k; //If k is even we add it to the running total
+		if (k % 2 == 0) answer += k; //If k is even we add it to the running total
 		i = j; //We move the fib. sequence along one place
 		j = k;
 		k = i + j; //By putting this at the end of the loop we can use it in the while and save 1 extra calculation each loop
