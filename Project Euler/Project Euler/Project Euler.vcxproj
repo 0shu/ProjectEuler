@@ -124,6 +124,7 @@
     <ClCompile Include="src\Problem004.cpp" />
     <ClCompile Include="src\Problem005.cpp" />
     <ClCompile Include="src\Problem006.cpp" />
+    <ClCompile Include="src\Problem007.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\main.h" />
