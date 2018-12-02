@@ -9,3 +9,4 @@ void Problem002();
 void Problem003();
 void Problem004();
 void Problem005();
+void Problem006();

@@ -4,7 +4,7 @@ int main()
 {
 	std::cout << "Hello world.\n";
 
-	Problem005();
+	Problem006();
 
 	system("Pause");
 
